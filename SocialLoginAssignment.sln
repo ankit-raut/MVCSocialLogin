@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialLoginAssignment.Application", "SocialLoginAssignment\SocialLoginAssignment.Application.csproj", "{3E376955-7FB2-48E2-8D81-66501C0E904B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E376955-7FB2-48E2-8D81-66501C0E904B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E376955-7FB2-48E2-8D81-66501C0E904B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E376955-7FB2-48E2-8D81-66501C0E904B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E376955-7FB2-48E2-8D81-66501C0E904B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD58D6F9-0398-4A05-9EFE-9BA5E65D1602}
+	EndGlobalSection
+EndGlobal
